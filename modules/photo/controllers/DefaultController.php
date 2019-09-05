@@ -46,7 +46,7 @@ class DefaultController extends Controller
     }
 
     /**
-     * Lists all Photo models.
+     * Upload multiple photos.
      * @return mixed
      */
     public function actionUpload()
